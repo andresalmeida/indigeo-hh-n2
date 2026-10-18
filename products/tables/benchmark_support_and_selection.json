@@ -1,0 +1,26 @@
+{
+ "table": "benchmark_support_and_selection",
+ "selection": {
+  "rows": 660,
+  "after_F3": 540,
+  "after_F4": 529,
+  "published": 529,
+  "reading": "the COUNT 529 is reconciled; without a published list of identifiers it is not shown that they are the same 529 plots"
+ },
+ "D0_coverage": {
+  "candidates": 157,
+  "complete": 150,
+  "from_75_to_100": 2,
+  "from_50_to_75": 3,
+  "above_0_below_50": 1,
+  "none": 1
+ },
+ "plot_cuts": 645,
+ "point_cuts": 65145,
+ "exclusion_reasons_by_plot_and_cut": {
+  "sdg15_no_value": 57,
+  "unowned": 2,
+  "note": "reasons can overlap within a plot-cut: they are not to be summed into a number of excluded plots"
+ },
+ "plots_touching_the_strip": 1
+}

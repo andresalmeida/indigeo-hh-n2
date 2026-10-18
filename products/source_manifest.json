@@ -1,0 +1,126 @@
+{
+  "scope": "curated rendered PNG figures and aggregate tables, copied without changing their bytes",
+  "source_manifest_sha256": "209fb9e86741a5269b556f12ac8dacfe6c5b8a09edbe46a6036dac52605379a0",
+  "files": [
+    {
+      "file": "products/tables/utm.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/utm.csv",
+      "sha256": "dc8651ccd828e35f570350f3c0dd0c9a8cdc09abb8e1f75cf88b9d14d71047fa",
+      "bytes": 40022
+    },
+    {
+      "file": "products/tables/common_support_means.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/common_support_means.csv",
+      "sha256": "af8b351b7e2bcc9f29ee5be43301d39af03f3660185e7347494c0e39466596aa",
+      "bytes": 63505
+    },
+    {
+      "file": "products/tables/benchmark_rho.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/benchmark_rho.csv",
+      "sha256": "e422170d3f01221cd5d89103d955915bd960c64dcc59ae86a3840fbfc12ee2cd",
+      "bytes": 1139
+    },
+    {
+      "file": "products/tables/R0_vs_table_6.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/R0_vs_table_6.csv",
+      "sha256": "26dd16a50e543d6ecc43e9c095ec326654b800507190609985925bb75cda902d",
+      "bytes": 264
+    },
+    {
+      "file": "products/tables/differences.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/differences.csv",
+      "sha256": "b35ee764acf7fdcbee70abf4ff61d1f12bb4b8b181274626c2c74e6d31cdef9d",
+      "bytes": 116589
+    },
+    {
+      "file": "products/tables/benchmark_differences.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/benchmark_differences.csv",
+      "sha256": "916c897dfb81600cde848cc4ff4604630dde4d0ef92b28fd715677176641b025",
+      "bytes": 799
+    },
+    {
+      "file": "products/tables/levels.csv",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/levels.csv",
+      "sha256": "61ad6e3a9ed38c75333f3bc24bdaa62dd0d691664753c26bce5e1df3b06567f0",
+      "bytes": 116673
+    },
+    {
+      "file": "products/tables/R0_vs_table_6.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/R0_vs_table_6.json",
+      "sha256": "7f79108a0b095968501f9f61dc91ef0a5fe22d97202d18a4fb68d4cafb06b303",
+      "bytes": 2510
+    },
+    {
+      "file": "products/tables/common_support_means.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/common_support_means.json",
+      "sha256": "5fba711daa0199d92c7fa0b909171d34ae877500ac33154d7f790888148cb187",
+      "bytes": 193983
+    },
+    {
+      "file": "products/tables/utm.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/utm.json",
+      "sha256": "3dae4a348a5d08bd6b513efb51a68533ab3722f11aee79ab113ca79728c5e5d9",
+      "bytes": 239816
+    },
+    {
+      "file": "products/tables/benchmark_differences.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/benchmark_differences.json",
+      "sha256": "d62c8a164ed8c6b6317163f9284a2e421c01bcf60da2eda4d21c731f4081c67b",
+      "bytes": 2933
+    },
+    {
+      "file": "products/tables/benchmark_rho.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/benchmark_rho.json",
+      "sha256": "b5db28c67351ef551bb0a5c7bc1ee538f1a90cbd5195e9e604a63b4909938323",
+      "bytes": 3835
+    },
+    {
+      "file": "products/tables/differences.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/differences.json",
+      "sha256": "a8d03d37f589a6d0524674164d78e6542066e7a4773046d9c121ecd450759a87",
+      "bytes": 310217
+    },
+    {
+      "file": "products/tables/benchmark_support_and_selection.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/benchmark_support_and_selection.json",
+      "sha256": "0b9c1f88b823d6244dec187a6420bc07cf4ec11881b3afd0951432e79078675e",
+      "bytes": 684
+    },
+    {
+      "file": "products/tables/levels.json",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/levels.json",
+      "sha256": "b3439dfaeb6031dde6c2c9c4282b16365a642a9bb733da6e9c1442317aa73e78",
+      "bytes": 319043
+    },
+    {
+      "file": "products/figures/F3_niveles_cantonales.png",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/figures/F3_niveles_cantonales.png",
+      "sha256": "87524732a8a252e5a880d837e446d1957fa763cf7916af4c102dbb667f78d97d",
+      "bytes": 759076
+    },
+    {
+      "file": "products/figures/F6_benchmark_asociacion_y_R0.png",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/figures/F6_benchmark_asociacion_y_R0.png",
+      "sha256": "b7f4edeb4cac097a392fde6416fc16869a6a9ace740478c6e9d0329205e528e4",
+      "bytes": 203340
+    },
+    {
+      "file": "products/figures/F5_franja_UTM.png",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/figures/F5_franja_UTM.png",
+      "sha256": "a4913b226429d07b1091da5954e20f2c0830d03a791aea6ac11b5e4a54278ff1",
+      "bytes": 303450
+    },
+    {
+      "file": "products/figures/F4_signos_diferencias_modeladas.png",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/figures/F4_signos_diferencias_modeladas.png",
+      "sha256": "6ee49ecaeadf8afedc194cdce1c26c94f473b9e62b116bd1065c0abcdf1852bc",
+      "bytes": 877607
+    },
+    {
+      "file": "products/captions_es.md",
+      "source_file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/text/pies_de_figura.md",
+      "sha256": "4f66212f225509a28f8e3f4d2b97bd08a2d8729438b9149ae4289944ecbd6752",
+      "bytes": 4226
+    }
+  ]
+}

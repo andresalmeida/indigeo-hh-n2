@@ -1,0 +1,12 @@
+# Wheels tested with CPython 3.13 on macOS arm64; use requirements.txt for other platforms.
+contourpy==1.3.1 --hash=sha256:523a8ee12edfa36f6d2a49407f705a6ef4c5098de4f498619787e272de93f2d5
+cycler==0.12.1 --hash=sha256:85cef7cff222d8644161529808465972e51340599459b8ac3ccbac5a854e0d30
+fonttools==4.56.0 --hash=sha256:f20e2c0dfab82983a90f3d00703ac0960412036153e5023eed2b4641d7d5e692
+kiwisolver==1.4.8 --hash=sha256:68269e60ee4929893aad82666821aaacbd455284124817af45c11e50a4b42e3c
+matplotlib==3.10.1 --hash=sha256:4f0647b17b667ae745c13721602b540f7aadb2a32c5b96e924cd4fea5dcb90f1
+numpy==2.2.6 --hash=sha256:f1372f041402e37e5e633e586f62aa53de2eac8d98cbfb822806ce4bbefcb74d
+packaging==24.2 --hash=sha256:09abb1bccd265c01f4a3aa3f7a7db064b36514d2cba19a2f694fe6150451a759
+pillow==11.1.0 --hash=sha256:cc1331b6d5a6e144aeb5e626f4375f5b7ae9934ba620c0ac6b3e43d5e683a0f0
+pyparsing==3.3.2 --hash=sha256:850ba148bd908d7e2411587e247a1e4f0327839c40e2e5e6d05a007ecc69911d
+python-dateutil==2.9.0.post0 --hash=sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427
+six==1.17.0 --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274

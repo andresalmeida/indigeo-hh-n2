@@ -1,0 +1,10 @@
+population,n,rho_SDG15,rho_N2_upper,rho_N2_lower
+"D0 plots with complete support, pooled over the cuts",150,0.8722045672378584,0.8700650338519939,0.8696873643450802
+"D0, complete support, cut 2014 (descriptive)",8,0.8539125638299666,0.8539125638299666,0.8539125638299666
+"D0, complete support, cut 2016 (descriptive)",58,0.877028705528724,0.8731120220206663,0.8731120220206663
+"D0, complete support, cut 2018 (descriptive)",57,0.8595868131800085,0.8563348674561784,0.8563348674561784
+"D0, complete support, cut 2020 (descriptive)",27,0.9081469694742486,0.911203674184697,0.911203674184697
+"D1, complete support, against the cut before (descriptive; the same references in both rows)",219,0.8450082948738905,0.8420141071938443,0.8419247442116433
+"D1, complete support, against the cut after (descriptive; the same references in both rows)",219,0.8507217989703816,0.8464524686431573,0.8462261969895074
+"D0 with positive support, the 150 complete INCLUDED (sensitivity)",156,0.8648267253787408,0.8630738587163569,0.8627381697078425
+"D0, the centre point alone, valid in both maps",154,0.8303764966618767,0.8333249788568912,0.8329760208122393

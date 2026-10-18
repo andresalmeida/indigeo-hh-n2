@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "scope": "all 218 continental cantons; analysis from frozen tables, not raw-to-HH reconstruction",
+  "checks": {
+    "six_full_csvs_byte_identical": true,
+    "six_csvs_present": true,
+    "analytical_summary_identical": true,
+    "figure_numerical_bindings_identical": true,
+    "all_218_cantons_in_figure": true,
+    "all_12_robustness_contexts_in_figure": true,
+    "all_2180_canton_year_support_rows": true,
+    "all_60_contexts_regenerated": true,
+    "all_three_figure_formats_present": true
+  },
+  "png_pixels": {
+    "size": [
+      2160,
+      3090
+    ],
+    "expected_rgba_sha256": "d06ac2b104ca8538efabc4bc15b6e5d84643123f0a07ac910325546e82abc3f7",
+    "actual_rgba_sha256": "d06ac2b104ca8538efabc4bc15b6e5d84643123f0a07ac910325546e82abc3f7",
+    "identical": true
+  },
+  "environment": {
+    "python": "3.13.0 (v3.13.0:60403a5409f, Oct  7 2024, 00:37:40) [Clang 15.0.0 (clang-1500.3.9.4)]",
+    "platform": "Darwin",
+    "machine": "arm64",
+    "isolated_venv": true,
+    "user_site": false,
+    "requirements": {
+      "matplotlib": "3.10.1",
+      "numpy": "2.2.6",
+      "pillow": "11.1.0",
+      "contourpy": "1.3.1",
+      "cycler": "0.12.1",
+      "fonttools": "4.56.0",
+      "kiwisolver": "1.4.8",
+      "packaging": "24.2",
+      "pyparsing": "3.3.2",
+      "python-dateutil": "2.9.0.post0",
+      "six": "1.17.0"
+    },
+    "module_origins_relative_to_venv": {
+      "numpy": "lib/python3.13/site-packages/numpy/__init__.py",
+      "matplotlib": "lib/python3.13/site-packages/matplotlib/__init__.py",
+      "PIL": "lib/python3.13/site-packages/PIL/__init__.py",
+      "contourpy": "lib/python3.13/site-packages/contourpy/__init__.py",
+      "fontTools": "lib/python3.13/site-packages/fontTools/__init__.py",
+      "kiwisolver": "lib/python3.13/site-packages/kiwisolver/__init__.py",
+      "cycler": "lib/python3.13/site-packages/cycler/__init__.py",
+      "packaging": "lib/python3.13/site-packages/packaging/__init__.py",
+      "pyparsing": "lib/python3.13/site-packages/pyparsing/__init__.py",
+      "dateutil": "lib/python3.13/site-packages/dateutil/__init__.py",
+      "six": "lib/python3.13/site-packages/six.py"
+    }
+  },
+  "source_fingerprint": "75fdf5fd61238d2fab3038ea8bbf9385b48267404c6af585ae4d4d782af5dec7",
+  "elapsed_seconds": 27.98414737499843,
+  "graphical_identity_note": "SVG/PDF export timestamps and SVG identifiers may change; exact numerical bindings are required, PNG pixel identity is reported separately"
+}

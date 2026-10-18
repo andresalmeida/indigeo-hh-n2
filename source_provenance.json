@@ -1,0 +1,63 @@
+{
+  "id": "HH_N2T_WITHIN_CANTON_HETEROGENEITY",
+  "scope": "exploratory_descriptive_not_admitted_not_published",
+  "sources": [
+    {
+      "local_file": "inputs/means_own.csv",
+      "file": "audit/HH_N2T_CATEGORIES_A_2026-10-17/tables/A_bandas_medias_soporte_propio.csv",
+      "sha256": "223495da3601578bd86bb37b7d26c52d786efe888b9d42d02237e1100c9e96a7",
+      "bytes": 250517
+    },
+    {
+      "local_file": "inputs/means_common.csv",
+      "file": "audit/HH_N2T_CATEGORIES_A_2026-10-17/tables/A_bandas_medias_soporte_comun.csv",
+      "sha256": "2bc59c169e7841e1760f96c8e71714a2ddf0a111048c831662d381b11c6b180d",
+      "bytes": 255978
+    },
+    {
+      "local_file": "inputs/bands_own.csv",
+      "file": "audit/HH_N2T_CATEGORIES_B_CODEX045_RESULTS_2026-10-17/results/tables/B_own_unidad_anio_banda.csv",
+      "sha256": "5b0abcf1373b8d72a14a09a60d56a6bbdfa9bf3993c3c4c9083e07486e8f02af",
+      "bytes": 548948
+    },
+    {
+      "local_file": "inputs/bands_common.csv",
+      "file": "audit/HH_N2T_CATEGORIES_B_CODEX045_RESULTS_2026-10-17/results/tables/B_common_unidad_anio_banda.csv",
+      "sha256": "fa8e804778c181aa41ec029d29cbbc06dd4e25417f60ccac2617679705508cb1",
+      "bytes": 548910
+    },
+    {
+      "local_file": "inputs/partition_own.csv",
+      "file": "audit/HH_N2T_CATEGORIES_B_CODEX045_RESULTS_2026-10-17/results/tables/B_own_particion.csv",
+      "sha256": "bc493b59166034696c75288cb52bb4e8ead06fa860e3cc3aafc28317aa5bf2fc",
+      "bytes": 75829
+    },
+    {
+      "local_file": "inputs/partition_common.csv",
+      "file": "audit/HH_N2T_CATEGORIES_B_CODEX045_RESULTS_2026-10-17/results/tables/B_common_particion.csv",
+      "sha256": "fbaad1a0618754b7eb008483ee290fbc0d2fb2237a42c49f5b009686b0546fa2",
+      "bytes": 75819
+    },
+    {
+      "local_file": "inputs/utm.csv",
+      "file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/tables/utm.csv",
+      "sha256": "dc8651ccd828e35f570350f3c0dd0c9a8cdc09abb8e1f75cf88b9d14d71047fa",
+      "bytes": 40022
+    }
+  ],
+  "source_manifests": [
+    {
+      "file": "audit/HH_N2T_CATEGORIES_A_2026-10-17/manifest.json",
+      "sha256": "566c86218ec1728b93522bbcd7649072c75c5456a71f17a9adbc32d65ca05f06"
+    },
+    {
+      "file": "audit/HH_N2T_CATEGORIES_B_CODEX045_RESULTS_2026-10-17/capsule_manifest.json",
+      "sha256": "7a9080da4bd93eaa1c60bbde23670f4e1477e884efb862b2cfe8c8afddee1e0e"
+    },
+    {
+      "file": "audit/HH_DESCRIPTIVE_FIGURES_2026-10-15/manifest.json",
+      "sha256": "209fb9e86741a5269b556f12ac8dacfe6c5b8a09edbe46a6036dac52605379a0"
+    }
+  ],
+  "spec_sha256": "df3efac30b4f9de64b23960d66a0d0e6e6b285327fc9f17074463f8cf3d57151"
+}

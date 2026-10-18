@@ -1,0 +1,182 @@
+{
+  "primary_year": 2020,
+  "primary_support": "common",
+  "primary_epsilon": 0.25,
+  "selected_extreme_pair": {
+    "support": "common",
+    "year": 2020,
+    "code_i": "1204",
+    "name_i": "PUEBLOVIEJO",
+    "code_j": "1308",
+    "name_j": "MANTA",
+    "either_in_utm_strip": false,
+    "robust_mean_distance": 0.12090768902783822,
+    "same_single_mean_band": true,
+    "mean_band": 3,
+    "mean_i_lower": 10.660159104512834,
+    "mean_i_upper": 10.660159108676156,
+    "mean_j_lower": 10.539251419648318,
+    "mean_j_upper": 10.545062590853336,
+    "high_i_guaranteed_pct": 2.1741003397789016,
+    "high_i_possible_pct": 2.1741003397789016,
+    "high_j_guaranteed_pct": 22.017858695247202,
+    "high_j_possible_pct": 22.017858695247202,
+    "high_gap_min_pp": 19.8437583554683,
+    "high_gap_max_pp": 19.8437583554683
+  },
+  "same_band_primary_pairs": 1139,
+  "fixed_pair": [
+    {
+      "support": "own",
+      "year": 2014,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.28993969172989686,
+      "meets_primary_proximity": false,
+      "high_gap_min_pp": 18.670963032536477,
+      "high_gap_max_pp": 18.672204944584266
+    },
+    {
+      "support": "own",
+      "year": 2016,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.4710732386047116,
+      "meets_primary_proximity": false,
+      "high_gap_min_pp": 18.696258891221888,
+      "high_gap_max_pp": 18.696879847245782
+    },
+    {
+      "support": "own",
+      "year": 2018,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.35620379624375964,
+      "meets_primary_proximity": false,
+      "high_gap_min_pp": 18.889530441352466,
+      "high_gap_max_pp": 18.89015139737636
+    },
+    {
+      "support": "own",
+      "year": 2020,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.12090768902783822,
+      "meets_primary_proximity": true,
+      "high_gap_min_pp": 19.8437583554683,
+      "high_gap_max_pp": 19.8437583554683
+    },
+    {
+      "support": "own",
+      "year": 2022,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.11332192811809705,
+      "meets_primary_proximity": true,
+      "high_gap_min_pp": 20.736831752833652,
+      "high_gap_max_pp": 20.7371422308456
+    },
+    {
+      "support": "common",
+      "year": 2014,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.28993969172989686,
+      "meets_primary_proximity": false,
+      "high_gap_min_pp": 18.670963032536477,
+      "high_gap_max_pp": 18.672204944584266
+    },
+    {
+      "support": "common",
+      "year": 2016,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.4710732386047116,
+      "meets_primary_proximity": false,
+      "high_gap_min_pp": 18.696258891221888,
+      "high_gap_max_pp": 18.696879847245782
+    },
+    {
+      "support": "common",
+      "year": 2018,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.35620379624375964,
+      "meets_primary_proximity": false,
+      "high_gap_min_pp": 18.889530441352466,
+      "high_gap_max_pp": 18.89015139737636
+    },
+    {
+      "support": "common",
+      "year": 2020,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.12090768902783822,
+      "meets_primary_proximity": true,
+      "high_gap_min_pp": 19.8437583554683,
+      "high_gap_max_pp": 19.8437583554683
+    },
+    {
+      "support": "common",
+      "year": 2022,
+      "code_i": "1204",
+      "code_j": "1308",
+      "robust_mean_distance": 0.11332192811809705,
+      "meets_primary_proximity": true,
+      "high_gap_min_pp": 20.736831752833652,
+      "high_gap_max_pp": 20.7371422308456
+    }
+  ],
+  "support_comparison_by_year": [
+    {
+      "year": 2014,
+      "cantons": 218,
+      "mean_classes_changed": 0,
+      "high_bound_shift_max_pp": 0.11692783165823073,
+      "high_bound_shift_median_pp": 0.0,
+      "mean_endpoint_shift_max": 0.24992151968536724
+    },
+    {
+      "year": 2016,
+      "cantons": 218,
+      "mean_classes_changed": 0,
+      "high_bound_shift_max_pp": 0.11861994401237252,
+      "high_bound_shift_median_pp": 0.0,
+      "mean_endpoint_shift_max": 0.2600782446459142
+    },
+    {
+      "year": 2018,
+      "cantons": 218,
+      "mean_classes_changed": 0,
+      "high_bound_shift_max_pp": 0.11999657779201289,
+      "high_bound_shift_median_pp": 0.0,
+      "mean_endpoint_shift_max": 0.2625943323422213
+    },
+    {
+      "year": 2020,
+      "cantons": 218,
+      "mean_classes_changed": 0,
+      "high_bound_shift_max_pp": 0.014496705254108733,
+      "high_bound_shift_median_pp": 0.0,
+      "mean_endpoint_shift_max": 0.006804926577544279
+    },
+    {
+      "year": 2022,
+      "cantons": 218,
+      "mean_classes_changed": 0,
+      "high_bound_shift_max_pp": 0.12309400379620472,
+      "high_bound_shift_median_pp": 0.0,
+      "mean_endpoint_shift_max": 0.2124436958293252
+    }
+  ],
+  "rows": 2180,
+  "close_pairs_max_epsilon": 23827,
+  "invalid_interval_cells": 0,
+  "inference": "descriptive census of modeled outputs; not independent validation or observed change",
+  "percent_denominator": "valid support cells in the same canton, year and support",
+  "pair_dependence": "Pairs share cantons and are not independent observations",
+  "band_summary_weighting": "unweighted canton summaries; not national area shares",
+  "analysis_code_sha256": "0e4dbdd36cff6f43849b756b3830b080845126460f952f29a7169c07a7b1cda3",
+  "source_provenance_sha256": "5ac0511eb55d13ce256bf2ce85efecb27e8f72ac6ede0af2aba4d52fbcc08b17",
+  "runtime": "3.13.0 (v3.13.0:60403a5409f, Oct  7 2024, 00:37:40) [Clang 15.0.0 (clang-1500.3.9.4)]"
+}

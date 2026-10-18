@@ -1,0 +1,110 @@
+{
+ "table": "benchmark_rho",
+ "sources": {
+  "aggregation_output": {
+   "file": "audit/N3_aggregation_TEMP1240/TEMP1237_national_aggregation_output.json",
+   "sha256": "d6a79b587ffd504f69bcba71fe73a7a40c7d16a22a35181752b35bef795d1fe7"
+  },
+  "geometry_CAT04": {
+   "file": "outputs/CAT04_HH_N2_continental_canton_four_band_polygon_map_2026-09-24.geojson",
+   "sha256": "2d77595007c4daccd9bdfc824444bcebc9be96ddcda25d51f15ac684009a2ecf"
+  },
+  "U1_output": {
+   "file": "audit/N3_diagnostics_TEMP1256/TEMP1256_U1_output.json",
+   "sha256": "db8b58891d85317629b39f687a47247ec2a6a8a068d9359439b47d68810436bc"
+  },
+  "diagnostics_result": {
+   "file": "audit/N3_diagnostics_TEMP1256/TEMP1256_diagnostics_result.json",
+   "sha256": "89f54a9aab3e9c0715e8f82b877e5513cb6033ee08536f4c7c745cf573b5a7a8"
+  },
+  "figures_spec_r1": {
+   "file": "audit/HH_PRODUCT_CLOSURE_R1_2026-10-15/figures/figures_spec.json",
+   "sha256": "e2cde9dda9c033ea1d331a8713839e196004bd7a76c78f94c8413b242a2f25ae"
+  },
+  "admission_AD_1": {
+   "file": "audit/HH_PRODUCT_CLOSURE_R1_2026-10-15/admission/admission_proposal.json",
+   "sha256": "4c489a28582321cbd8445965762ed2e681378daa3262cfbfa82cf23148bd58a5"
+  },
+  "benchmark_B4": {
+   "file": "audit/HH_BENCHMARK_B_result_2026-10-15/B4_result.json",
+   "sha256": "c6bc1cf73aebf53be2aab7c1dd9e10c641fdec9cec086d1e449269600fc509e7"
+  },
+  "benchmark_stage_mac": {
+   "file": "audit/HH_BENCHMARK_B_result_2026-10-15/stage_mac_B1_B3a.json",
+   "sha256": "5f51319f00f7c4de96d32306b394c84c760eb22bd67f059867d1f1e03fa6bc79"
+  },
+  "benchmark_stage_metis": {
+   "file": "audit/HH_BENCHMARK_B_result_2026-10-15/stage_metis_B3b.json",
+   "sha256": "b4a0a9dff27aaefb99c4efa36f28acdabb9ce79f8e06b6aec7ff33ec092bd4c6"
+  },
+  "benchmark_report": {
+   "file": "docs/HH_BENCHMARK_B1_B4_RESULTADO_2026-10-15.md",
+   "sha256": "5dc96fafc9be513ec8d996fdc3575e831668dd90308dc24cc1ceb941176c7ddc"
+  }
+ },
+ "rows": [
+  {
+   "population": "D0 plots with complete support, pooled over the cuts",
+   "n": 150,
+   "rho_SDG15": 0.8722045672378584,
+   "rho_N2_upper": 0.8700650338519939,
+   "rho_N2_lower": 0.8696873643450802
+  },
+  {
+   "population": "D0, complete support, cut 2014 (descriptive)",
+   "n": 8,
+   "rho_SDG15": 0.8539125638299666,
+   "rho_N2_upper": 0.8539125638299666,
+   "rho_N2_lower": 0.8539125638299666
+  },
+  {
+   "population": "D0, complete support, cut 2016 (descriptive)",
+   "n": 58,
+   "rho_SDG15": 0.877028705528724,
+   "rho_N2_upper": 0.8731120220206663,
+   "rho_N2_lower": 0.8731120220206663
+  },
+  {
+   "population": "D0, complete support, cut 2018 (descriptive)",
+   "n": 57,
+   "rho_SDG15": 0.8595868131800085,
+   "rho_N2_upper": 0.8563348674561784,
+   "rho_N2_lower": 0.8563348674561784
+  },
+  {
+   "population": "D0, complete support, cut 2020 (descriptive)",
+   "n": 27,
+   "rho_SDG15": 0.9081469694742486,
+   "rho_N2_upper": 0.911203674184697,
+   "rho_N2_lower": 0.911203674184697
+  },
+  {
+   "population": "D1, complete support, against the cut before (descriptive; the same references in both rows)",
+   "n": 219,
+   "rho_SDG15": 0.8450082948738905,
+   "rho_N2_upper": 0.8420141071938443,
+   "rho_N2_lower": 0.8419247442116433
+  },
+  {
+   "population": "D1, complete support, against the cut after (descriptive; the same references in both rows)",
+   "n": 219,
+   "rho_SDG15": 0.8507217989703816,
+   "rho_N2_upper": 0.8464524686431573,
+   "rho_N2_lower": 0.8462261969895074
+  },
+  {
+   "population": "D0 with positive support, the 150 complete INCLUDED (sensitivity)",
+   "n": 156,
+   "rho_SDG15": 0.8648267253787408,
+   "rho_N2_upper": 0.8630738587163569,
+   "rho_N2_lower": 0.8627381697078425
+  },
+  {
+   "population": "D0, the centre point alone, valid in both maps",
+   "n": 154,
+   "rho_SDG15": 0.8303764966618767,
+   "rho_N2_upper": 0.8333249788568912,
+   "rho_N2_lower": 0.8329760208122393
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+# Preserve archived bytes and SHA-256 identities on every checkout.
+# In particular, the frozen CSVs intentionally retain their original CRLF.
+* -text
